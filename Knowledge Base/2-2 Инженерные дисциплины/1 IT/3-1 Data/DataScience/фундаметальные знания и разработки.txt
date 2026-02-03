@@ -1,0 +1,75 @@
+сингулярное разложение (SVD)
+линейный дискриминантный анализ
+численные методы
+кластерный анализ
+регрессионный анализ
+иерархическая кластеризация
+метод k ближайших соседей
+многомерное нормальное распределение
+
+
+Машинное обучение / Искусственный интеллект (общее)
+
+Нейронные сети (Neural Networks)
+
+Трансформеры (Transformers)
+
+Архитектура Трансформера (Encoder-Only, Decoder-Only)
+
+Матричная математика Трансформеров
+
+Реализация (Coding from Scratch)
+
+Машинное обучение с подкреплением (Reinforcement Learning)
+
+Основные концепции (Essential Concepts)
+
+RL с нейронными сетями (Neural Networks)
+
+RLHF (Reinforcement Learning with Human Feedback)
+
+Обработка естественного языка (NLP)
+
+Векторные представления слов (Word Embedding, Word2Vec)
+
+Модели типа BERT (Encoder-Only)
+
+Архитектура Seq2Seq (Sequence-to-Sequence)
+
+Матричная алгебра для нейронных сетей (Matrix Algebra)
+
+Внимание (Attention Mechanisms)
+
+Градиентный бустинг (CatBoost) и методы кодирования признаков:
+
+Ordered Target Encoding
+
+One-Hot, Label, Target, K-Fold Target Encoding
+
+Метрики и оценки:
+
+Mutual Information (взаимная информация)
+
+Cosine Similarity (косинусное сходство)
+
+R-squared (R-квадрат)
+
+Рекуррентные нейронные сети (RNN):
+
+Долгая краткосрочная память (LSTM - Long Short-Term Memory)
+
+Линейные модели и статистика:
+
+Линейная регрессия (Linear Regression)
+
+Множественная регрессия (Multiple Regression)
+
+Использование линейных моделей для t-тестов и ANOVA
+
+Матрицы дизайна (Design Matrices)
+
+Карьера и индустрия (Career Advice, Industry Insights)
+
+Интервью и истории специалистов (Human Stories in AI)
+
+Поисково-ответные системы (RAG - Retrieval-Augmented Generation)
